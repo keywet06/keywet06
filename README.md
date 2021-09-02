@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey, here is keywet06, an OIer
 
-<!--
-**keywet06/keywet06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My real name is Wentao Ying / Roy Ying (Chinese name / English name)
 
-Here are some ideas to get you started:
+I'm currently learning OI competition as an OIer in Zhenghai Senior High School.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+There are some repositories I maintain: 
+
+- [keywet06/code](/keywet06/code) : Most of my OI coding source files
+- [octinc/lightwolf](/octinc/lightwolf) : A web-based werewolf-killing project
+- [octinc/lightwolf-core](/octinc/lightwolf-core) : The game core of lightwolf
+- [WeKw/KwCode](/WeKw/KwCode) : A program help people code more quickly
+
+I'm glad to see that somebody makes a contribution to these projects.
+
+You can reach me at <keywet06@tom.com>
+
+In the end, there are my accounts at some OI websites.
+
+Luogu: [keywet06](//www.luogu.com.cn/user/125917)
+
+Codeforces: [![keywet06 - Codeforces](http://cfrating.ihcr.top/?user=keywet06)](https://codeforces.com/profile/keywet06) [![keywit06 - Codeforces](http://cfrating.ihcr.top/?user=keywit06)](https://codeforces.com/profile/keywit06)
