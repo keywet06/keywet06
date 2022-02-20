@@ -19,4 +19,8 @@ In the end, there are my accounts at some OI websites.
 
 Luogu: [keywet06](https://www.luogu.com.cn/user/125917)
 
-Codeforces: [![keywet06 - Codeforces](https://tzcawa.top/ratingshow?user=keywet06)](https://codeforces.com/profile/keywet06) [![keywit06 - Codeforces](https://tzcawa.top/ratingshow?user=keywit06)](https://codeforces.com/profile/keywit06)
+Codeforces:
+
+[![keywet06 - Codeforces](https://tzcawa.top/ratingshow?user=keywet06)](https://codeforces.com/profile/keywet06)
+
+[![keywit06 - Codeforces](https://tzcawa.top/ratingshow?user=keywit06)](https://codeforces.com/profile/keywit06)
