@@ -1,9 +1,5 @@
 ### Hey, here is keywet06, an OIer
 
-My real name is Wentao Ying / Roy Ying (Chinese name / English name)
-
-I'm currently learning OI competition as an OIer in Zhenghai Senior High School.
-
 There are some repositories I maintain: 
 
 - [keywet06/code](/keywet06/code) : Most of my OI coding source files
